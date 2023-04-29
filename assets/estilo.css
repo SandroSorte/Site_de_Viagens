@@ -1,0 +1,21 @@
+/*Nav*/
+.bg-grad, .btn-grad{
+    background-color: rgb(199, 151, 40);
+    background-image:linear-gradient(to right,lightblue,rgb(89, 210, 121),lightblue);
+}
+
+/*Carousel*/
+.imgCar{
+    max-block-size:450px;
+    min-block-size:270px
+}
+
+/*Cards*/
+.card-img-top{
+    height: 15rem;
+}
+
+.fontstyle,.card-title{
+    font-family: 'papyrus';
+    font-weight: bold;
+}
