@@ -18,6 +18,7 @@
     height: 20rem;
 }
 
+/*Estilo da fonte*/
 .fontstyle,.card-title{
     font-family: 'papyrus';
     font-weight: bold;
