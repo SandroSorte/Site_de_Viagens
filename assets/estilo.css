@@ -3,10 +3,6 @@
     background-color: rgb(199, 151, 40);
     background-image:linear-gradient(to right,lightblue,rgb(89, 210, 121),lightblue);
 }
-.nav-link,h6{
-    font-weight: 700 !important;
-    font-family:'papyrus';
-}
 .nav-link:hover{
     color:white !important;
 }
