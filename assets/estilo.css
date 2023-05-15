@@ -4,7 +4,8 @@
     background-image:linear-gradient(to right,lightblue,rgb(89, 210, 121),lightblue);
 }
 .nav-link:hover{
-    color:white !important;
+    color:white!important;
+    text-shadow: 3px 3px 5px black;
 }
 
 /*Carousel*/
@@ -25,4 +26,9 @@
 .fontstyle,.card-title{
     font-family: 'papyrus';
     font-weight: bold;
+}
+
+/*Carousel*/
+.carousel-item, h3 h1{
+    text-shadow:4px 4px 3px black
 }
